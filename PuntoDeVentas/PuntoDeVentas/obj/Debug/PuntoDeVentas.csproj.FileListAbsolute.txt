@@ -1,0 +1,28 @@
+C:\DUOC\BaseDeDatos\SqlServer\Clase2014_04_U2\ProyectoPuntoDeVenta_S2\PuntoDeVentas\PuntoDeVentas\bin\PuntoDeVentas.dll
+C:\DUOC\BaseDeDatos\SqlServer\Clase2014_04_U2\ProyectoPuntoDeVenta_S2\PuntoDeVentas\PuntoDeVentas\bin\PuntoDeVentas.pdb
+C:\DUOC\BaseDeDatos\SqlServer\Clase2014_04_U2\ProyectoPuntoDeVenta_S2\PuntoDeVentas\PuntoDeVentas\bin\Libreria.dll
+C:\DUOC\BaseDeDatos\SqlServer\Clase2014_04_U2\ProyectoPuntoDeVenta_S2\PuntoDeVentas\PuntoDeVentas\bin\Libreria.pdb
+C:\DUOC\BaseDeDatos\SqlServer\Clase2014_04_U2\ProyectoPuntoDeVenta_S2\PuntoDeVentas\PuntoDeVentas\obj\Debug\PuntoDeVentas.csprojResolveAssemblyReference.cache
+C:\DUOC\BaseDeDatos\SqlServer\Clase2014_04_U2\ProyectoPuntoDeVenta_S2\PuntoDeVentas\PuntoDeVentas\obj\Debug\PuntoDeVentas.dll
+C:\DUOC\BaseDeDatos\SqlServer\Clase2014_04_U2\ProyectoPuntoDeVenta_S2\PuntoDeVentas\PuntoDeVentas\obj\Debug\PuntoDeVentas.pdb
+C:\Users\Seba\Desktop\PuntoDeVentas\PuntoDeVentas\bin\PuntoDeVentas.dll
+C:\Users\Seba\Desktop\PuntoDeVentas\PuntoDeVentas\bin\PuntoDeVentas.pdb
+C:\Users\Seba\Desktop\PuntoDeVentas\PuntoDeVentas\bin\Libreria.dll
+C:\Users\Seba\Desktop\PuntoDeVentas\PuntoDeVentas\bin\Libreria.pdb
+C:\Users\Seba\Desktop\PuntoDeVentas\PuntoDeVentas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Seba\Desktop\PuntoDeVentas\PuntoDeVentas\obj\Debug\PuntoDeVentas.dll
+C:\Users\Seba\Desktop\PuntoDeVentas\PuntoDeVentas\obj\Debug\PuntoDeVentas.pdb
+C:\Users\clases\Desktop\PuntoDeVentas\PuntoDeVentas\bin\PuntoDeVentas.dll
+C:\Users\clases\Desktop\PuntoDeVentas\PuntoDeVentas\bin\PuntoDeVentas.pdb
+C:\Users\clases\Desktop\PuntoDeVentas\PuntoDeVentas\bin\Libreria.dll
+C:\Users\clases\Desktop\PuntoDeVentas\PuntoDeVentas\bin\Libreria.pdb
+C:\Users\clases\Desktop\PuntoDeVentas\PuntoDeVentas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\clases\Desktop\PuntoDeVentas\PuntoDeVentas\obj\Debug\PuntoDeVentas.dll
+C:\Users\clases\Desktop\PuntoDeVentas\PuntoDeVentas\obj\Debug\PuntoDeVentas.pdb
+C:\Users\Seba\Desktop\Nueva carpeta (3)\PuntoDeVentas\PuntoDeVentas\bin\PuntoDeVentas.dll
+C:\Users\Seba\Desktop\Nueva carpeta (3)\PuntoDeVentas\PuntoDeVentas\bin\PuntoDeVentas.pdb
+C:\Users\Seba\Desktop\Nueva carpeta (3)\PuntoDeVentas\PuntoDeVentas\bin\Libreria.dll
+C:\Users\Seba\Desktop\Nueva carpeta (3)\PuntoDeVentas\PuntoDeVentas\bin\Libreria.pdb
+C:\Users\Seba\Desktop\Nueva carpeta (3)\PuntoDeVentas\PuntoDeVentas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Seba\Desktop\Nueva carpeta (3)\PuntoDeVentas\PuntoDeVentas\obj\Debug\PuntoDeVentas.dll
+C:\Users\Seba\Desktop\Nueva carpeta (3)\PuntoDeVentas\PuntoDeVentas\obj\Debug\PuntoDeVentas.pdb
